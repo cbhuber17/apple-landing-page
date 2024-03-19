@@ -33,6 +33,5 @@
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
     "vite": "^5.1.6"
-  },
-  "homepage": "https://cbhuber17.github.io/apple-landing-page/"
+  }
 }
